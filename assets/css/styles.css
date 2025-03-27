@@ -9,10 +9,7 @@
     --soft-gradient-secondary: linear-gradient(135deg, #e8f5e9, #c8e6c9);
     --shadow-subtle: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.03);
 }
-.logo img {
-    height: 40px; /* Adjust size as needed */
-    width: auto;
-}
+
 
 /* Reset and Base Styles */
 * {
